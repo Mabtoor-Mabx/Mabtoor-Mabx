@@ -1,17 +1,17 @@
-Hello Everyone. My name is Mabtoor Ul Shafiq aka @Mabtoor-Mabx . I am: 
+**Hello Everyone. My name is Mabtoor Ul Shafiq. I am:**
+
+**🔥 Machine Learning and Deep Learning Engineer**
+
+🔥 **Web Content Writer** 
 
 
-🔥 Machine Learning and Deep Learning Engineer
-
-🔥 Web Content Writer 
-
-
-Current Job:
+**Current Job:**
 
 🔥 Web Content Writer at Microbeck Private Limited Faisalabad
 
 
-FYP (Final Year Project):
+**FYP (Final Year Project):**
+
 🔥Plant Leaf Disease Detection Using Deep Learning
   
   Our Final Year Project based on 36 different classes of plants 
@@ -19,7 +19,7 @@ FYP (Final Year Project):
   Build Deep learning Model with more than 98% of accuracy
 
 
-Personal Projects:
+**Personal Projects:**
 
 🔥Food Vision Big 101 Using CNN
   
@@ -67,7 +67,7 @@ Personal Projects:
 
 
 
-Previous Work
+**Previous Work**
 
 🔥 Machine Learning Internee at Kingologic LLC Lahore (Remote)
 
@@ -83,22 +83,26 @@ Previous Work
 
 
 
-Teaching Experience
+**Teaching Experience**
+
 🔥 Mathematics and Physics Lecturer at Future Leaders Academy (6 Months)
 
 🔥 3 Years Of Home Tutor Experience from Class 8 to 2nd Year. 
 
 🔥 PTB + O-level and A-Level
 
-Education:
+
+**Education**:
+
 🔥 Graduate in BS Computer Science at the University of Agriculture Faisalabad
 
 
 Machine Learning, Deep Learning and Content Writing Services are Available. Feel Free to ask. 
 
-Contact :0348-7330483
+**Contact :0348-7330483**
 
-Email: mabtoor111@gmail.com
 
-linkedin : Mabtoor Ul Shafiq
+**Email: mabtoor111@gmail.com**
 
+
+**linkedin : Mabtoor Ul Shafiq**
