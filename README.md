@@ -17,6 +17,8 @@
   Our Final Year Project based on 36 different classes of plants 
   
   Build Deep learning Model with more than 98% of accuracy
+  
+  https://github.com/Mabtoor-Mabx/Plant_Leaf_Disease_Detection_App-Model
 
 
 **Personal Projects:**
