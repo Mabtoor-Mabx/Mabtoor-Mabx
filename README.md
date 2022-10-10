@@ -1,16 +1,16 @@
-**Hello Everyone. My name is Mabtoor Ul Shafiq. I am:**
+# **Hello Everyone. My name is Mabtoor Ul Shafiq. I am:**
 
-**🔥 Machine Learning and Deep Learning Engineer**
+## **🔥 Machine Learning and Deep Learning Engineer**
 
-🔥 **Web Content Writer** 
+## 🔥 **Web Content Writer** 
 
 
-**Current Job:**
+# **Current Job:**
 
 🔥 Web Content Writer at Microbeck Private Limited Faisalabad
 
 
-**FYP (Final Year Project):**
+# **FYP (Final Year Project):**
 
 🔥Plant Leaf Disease Detection Using Deep Learning
   
@@ -21,21 +21,21 @@
   https://github.com/Mabtoor-Mabx/Plant_Leaf_Disease_Detection_App-Model
 
 
-**Personal Projects:**
+# **Personal Projects:**
 
-🔥Food Vision Big 101 Using CNN
+## 🔥Food Vision Big 101 Using CNN
   
   Build Food Vision Big 101 model using Convolutional Neural network and got 80% of accuracy
   
   Deploy it results on tensorboard
 
-🔥Student Marks Predictor
+## 🔥Student Marks Predictor
   
   Build Student Marks Predictor Model Using Machine
   
   Learning Algorithm linear Regression
 
-🔥Create and Deploy Cifar10 Dataset model
+## 🔥Create and Deploy Cifar10 Dataset model
   
   Build CIfar 10 dataset Deep learning model and getting 92% accuracy in training
   
@@ -43,25 +43,25 @@
   
   https://mabtoor-mabx-deploy-ml-app-app-kfu92u.streamlitapp.com/
 
-🔥Predict Random Images Using Deep learning
+## 🔥Predict Random Images Using Deep learning
   
   Predict Random Images Using Different Pretrained Models
   
   like VGG16, RESNET50, INCEPTIONV3
 
-🔥EDA Web APP
+## 🔥EDA Web APP
   
   Create Web Application for Exploratory Data Analysis in which you can analyze data by just Uploading dataset
   
   https://mabtoor-mabx-streamlit-apps-eda-web-application-msxmrq.streamlitapp.com/
 
-🔥Machine Learning Web App
+## 🔥Machine Learning Web App
   
   Create Machine Learning app in which you can explore 3 different dataset with 3 different classifiers called KNN, SVM and Random Forest
   
   https://mabtoor-mabx-streamlit--machine-learning-web-app-updated-r44pds.streamlitapp.com/
 
-🔥Custom Object Detection Using YOLO
+## 🔥Custom Object Detection Using YOLO
   
   Labelling the custom image using makesense.ai
   
@@ -69,7 +69,7 @@
 
 
 
-**Previous Work**
+# **Previous Work**
 
 🔥 Machine Learning Internee at Kingologic LLC Lahore (Remote)
 
@@ -85,7 +85,7 @@
 
 
 
-**Teaching Experience**
+# **Teaching Experience**
 
 🔥 Mathematics and Physics Lecturer at Future Leaders Academy (6 Months)
 
@@ -94,7 +94,7 @@
 🔥 PTB + O-level and A-Level
 
 
-**Education**:
+# **Education**:
 
 🔥 Graduate in BS Computer Science at the University of Agriculture Faisalabad
 
