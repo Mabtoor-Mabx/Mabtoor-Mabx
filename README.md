@@ -5,10 +5,6 @@
 ####  🔥 **Web Content Writer** 
 
 
-# **Current Job:**
-
-🔥 Web Content Writer at Microbeck Private Limited Faisalabad
-
 
 # **FYP (Final Year Project):**
 
@@ -78,6 +74,8 @@
 🔥 Deep learning Internee at AI Soft Faisalabad
 
 🔥 Content Writing Internee at Digimedia Max Faisalabad
+
+🔥 Web Content Writer at Microbeck Private Limited Faisalabad
 
 🔥 Data Science and Business Analytics Internee at The Spark Foundation
 
