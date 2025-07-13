@@ -2,9 +2,9 @@
 
 ####  🔥 *Computer Science Teacher*
 
-####  🔥 *Python Developer** 
+####  🔥 *Python Developer*
 
-####  🔥 *AI/ML/DL Enthusiast** 
+####  🔥 *AI/ML/DL Enthusiast*
 
 
 
@@ -12,7 +12,7 @@
 
 🔥Plant Leaf Disease Detection Using Deep Learning
   
-  Our Final Year Project based on 36 different classes of plants 
+  Our Final Year Project is based on 36 different classes of plants 
   
   Build Deep learning Model with more than 98% of accuracy
   
@@ -23,21 +23,19 @@
 
 ## 🔥Food Vision Big 101 Using CNN
   
-  Build Food Vision Big 101 model using Convolutional Neural network and got 80% of accuracy
+  Built Food Vision Big 101 model using a Convolutional Neural Network and got 80% accuracy
   
-  Deploy it results on tensorboard
+  Deploy it results on Tensorboard
 
 ## 🔥Student Marks Predictor
   
-  Build Student Marks Predictor Model Using Machine
-  
-  Learning Algorithm linear Regression
+  Build a Student Marks Predictor Model Using a Machine Learning  Algorithm, Linear Regression
 
 ## 🔥Create and Deploy Cifar10 Dataset model
   
-  Build CIfar 10 dataset Deep learning model and getting 92% accuracy in training
+  Build CIfar 10 dataset Deep learning model and get 92% accuracy in training
   
-  deploy our model in streamlit
+  Deploy our model in streamlit
   
   https://mabtoor-mabx-deploy-ml-app-app-kfu92u.streamlitapp.com/
 
@@ -49,13 +47,13 @@
 
 ## 🔥EDA Web APP
   
-  Create Web Application for Exploratory Data Analysis in which you can analyze data by just Uploading dataset
+  Create a Web Application for Exploratory Data Analysis in which you can analyse data by just uploading a dataset
   
   https://mabtoor-mabx-streamlit-apps-eda-web-application-msxmrq.streamlitapp.com/
 
 ## 🔥Machine Learning Web App
   
-  Create Machine Learning app in which you can explore 3 different dataset with 3 different classifiers called KNN, SVM and Random Forest
+  Create a Machine Learning app in which you can explore 3 different datasets with 3 different classifiers called KNN, SVM and Random Forest
   
   https://mabtoor-mabx-streamlit--machine-learning-web-app-updated-r44pds.streamlitapp.com/
 
@@ -63,7 +61,7 @@
   
   Labelling the custom image using makesense.ai
   
-  Build CIfar 10 dataset Deep learning model and getting 92% accuracy in training
+  Build CIfar 10 dataset Deep learning model and get 92% accuracy in training
 
 
 
@@ -71,13 +69,13 @@
 
 🔥 Machine Learning Internee at Kingologic LLC Lahore (Remote)
 
-🔥 Python Developer Intern at Cybex Institute Faisalabad
+🔥 Python Developer Intern at Cybex Institute, Faisalabad
 
-🔥 Deep learning Internee at AI Soft Faisalabad
+🔥 Deep learning Intern at AI Soft Faisalabad
 
-🔥 Content Writing Internee at Digimedia Max Faisalabad
+🔥 Content Writing Internee at Digimedia Max, Faisalabad
 
-🔥 Web Content Writer at Microbeck Private Limited Faisalabad
+🔥 Web Content Writer at Microbeck Private Limited, Faisalabad
 
 🔥 Data Science and Business Analytics Internee at The Spark Foundation
 
@@ -87,21 +85,21 @@
 
 # **Teaching Experience**
 
-🔥 Mathematics and Physics Lecturer at Future Leaders Academy (6 Months)
+🔥Computer Science Teacher at **The Legacy School Faisalabad, Pakistan**
 
-🔥 3 Years Of Home Tutor Experience from Class 8 to 2nd Year. 
+🔥Computer Science Lecturer at ** Informatics Group of Colleges, Faisalabad, Pakistan**
 
-🔥 PTB + O-level and A-Level
+🔥 Computer Science Teacher at **Resource Academia International School Faisalabad, Pakistan**
 
 
 # **Education**:
 
-🔥 Graduate in BS Computer Science at the University of Agriculture Faisalabad
+🔥 Graduate in BS Computer Science at the University of Agriculture, Faisalabad
 
 
 Machine Learning, Deep Learning and Content Writing Services are Available. Feel Free to ask. 
 
-**Contact :0348-7330483**
+**Contact:0348-7330483**
 
 
 **Email: mabtoor111@gmail.com**
