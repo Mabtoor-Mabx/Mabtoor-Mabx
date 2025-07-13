@@ -1,8 +1,10 @@
 # **Hello Everyone. My name is Mabtoor Ul Shafiq. I am:**
 
-####  **🔥 Machine Learning and Deep Learning Engineer**
+####  **🔥 Computer Science Teacher*
 
-####  🔥 **Web Content Writer** 
+####  🔥 *Python Developer** 
+
+####  🔥 *AI/ML/DL Enthusiast** 
 
 
 
