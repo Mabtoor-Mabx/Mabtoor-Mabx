@@ -87,7 +87,7 @@
 
 🔥Computer Science Teacher at **The Legacy School Faisalabad, Pakistan**
 
-🔥Computer Science Lecturer at ** Informatics Group of Colleges, Faisalabad, Pakistan**
+🔥Computer Science Lecturer at **Informatics Group of Colleges, Faisalabad, Pakistan**
 
 🔥 Computer Science Teacher at **Resource Academia International School Faisalabad, Pakistan**
 
