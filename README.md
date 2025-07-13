@@ -1,6 +1,6 @@
 # **Hello Everyone. My name is Mabtoor Ul Shafiq. I am:**
 
-####  **🔥 Computer Science Teacher*
+####  🔥 *Computer Science Teacher*
 
 ####  🔥 *Python Developer** 
 
