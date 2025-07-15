@@ -23,7 +23,14 @@
 
 ## 🔥Emily - The AI Virtual Assistant
 Emily is a voice-controlled AI virtual assistant built using Python. It can perform various tasks such as providing real-time weather updates, fetching Nobel Prize information, reading top news headlines, and opening popular websites. Emily uses speech recognition for voice input and text-to-speech technology for audio responses, creating an interactive and hands-free experience
+
 https://github.com/Mabtoor-Mabx/Emily_Ai_Virtual_Assistant
+
+## 🔥Fake News Headline Generator Using Python
+The Fake News Headline Generator is a fun Python project that creates random and humorous fake news headlines. It uses predefined lists of persons, actions, and places or things to generate unique and unexpected headlines every time. This project is designed for beginners to practice Python fundamentals like lists, loops, and the random module.
+
+https://github.com/Mabtoor-Mabx/Fake_News_Headline_Generator
+
 
 ## 🔥Food Vision Big 101 Using CNN
   
