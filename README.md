@@ -21,6 +21,10 @@
 
 # **Personal Projects:**
 
+## 🔥Emily - The AI Virtual Assistant
+Emily is a voice-controlled AI virtual assistant built using Python. It can perform various tasks such as providing real-time weather updates, fetching Nobel Prize information, reading top news headlines, and opening popular websites. Emily uses speech recognition for voice input and text-to-speech technology for audio responses, creating an interactive and hands-free experience
+https://github.com/Mabtoor-Mabx/Emily_Ai_Virtual_Assistant
+
 ## 🔥Food Vision Big 101 Using CNN
   
   Built Food Vision Big 101 model using a Convolutional Neural Network and got 80% accuracy
