@@ -118,7 +118,7 @@ https://github.com/Mabtoor-Mabx/Fake_News_Headline_Generator
 
 Machine Learning, Deep Learning and Content Writing Services are Available. Feel Free to ask. 
 
-**Contact:0348-7330483**
+**Contact:+92348-7330483**
 
 
 **Email: mabtoor111@gmail.com**
