@@ -26,10 +26,18 @@ Emily is a voice-controlled AI virtual assistant built using Python. It can perf
 
 https://github.com/Mabtoor-Mabx/Emily_Ai_Virtual_Assistant
 
+## 🔥 Calculator With Saved History Using Python
+The Calculator With Saved History Using Python is a simple command-line application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+One of the key features of this project is the ability to save calculation history to a file (history.txt) and retrieve it later. Users can also clear the history when needed, making it a practical and lightweight tool for everyday calculations.
+
+https://github.com/Mabtoor-Mabx/Calculator_With_Saved_History_Using_Python
+
 ## 🔥Fake News Headline Generator Using Python
 The Fake News Headline Generator is a fun Python project that creates random and humorous fake news headlines. It uses predefined lists of persons, actions, and places or things to generate unique and unexpected headlines every time. This project is designed for beginners to practice Python fundamentals like lists, loops, and the random module.
 
 https://github.com/Mabtoor-Mabx/Fake_News_Headline_Generator
+
+
 
 
 ## 🔥Food Vision Big 101 Using CNN
