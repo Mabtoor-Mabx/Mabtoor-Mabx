@@ -32,13 +32,15 @@ One of the key features of this project is the ability to save calculation histo
 
 https://github.com/Mabtoor-Mabx/Calculator_With_Saved_History_Using_Python
 
+## 🔥 Password_Guessing_Game_Using_Python
+The Password Guessing Game is a fun and interactive Python-based project where users try to guess a randomly selected password. The game allows players to choose from three difficulty levels: Easy, Medium, and Hard. Based on the selected difficulty, the game picks a password from predefined lists and provides hints to assist the player in guessing the correct password.
+
+https://github.com/Mabtoor-Mabx/Password_guessing_game
+
 ## 🔥Fake News Headline Generator Using Python
 The Fake News Headline Generator is a fun Python project that creates random and humorous fake news headlines. It uses predefined lists of persons, actions, and places or things to generate unique and unexpected headlines every time. This project is designed for beginners to practice Python fundamentals like lists, loops, and the random module.
 
 https://github.com/Mabtoor-Mabx/Fake_News_Headline_Generator
-
-
-
 
 ## 🔥Food Vision Big 101 Using CNN
   
