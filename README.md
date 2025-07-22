@@ -32,6 +32,12 @@ One of the key features of this project is the ability to save calculation histo
 
 https://github.com/Mabtoor-Mabx/Calculator_With_Saved_History_Using_Python
 
+## 🔥 QRCodeGenerator_Using_Python
+
+QRCodeGenerator_Using_Python is a simple Python-based project that allows you to generate QR codes for any given data, such as URLs, text, or other information. The generated QR code is saved as an image file, which can be easily scanned using any QR code reader application.
+
+https://github.com/Mabtoor-Mabx/QRCodeGenerator_Using_Python
+
 ## 🔥 Password_Guessing_Game_Using_Python
 The Password Guessing Game is a fun and interactive Python-based project where users try to guess a randomly selected password. The game allows players to choose from three difficulty levels: Easy, Medium, and Hard. Based on the selected difficulty, the game picks a password from predefined lists and provides hints to assist the player in guessing the correct password.
 
