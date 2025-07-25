@@ -48,6 +48,13 @@ The Fake News Headline Generator is a fun Python project that creates random and
 
 https://github.com/Mabtoor-Mabx/Fake_News_Headline_Generator
 
+## 🔥 Flask-based Login System
+This project demonstrates a Flask-based Login System with session management. It provides a simple and secure way to authenticate users by validating credentials and managing sessions using Flask. The application ensures that only authenticated users can access the homepage, while unauthorized users are redirected to the login page
+
+https://github.com/Mabtoor-Mabx/Flask-based-Login-System
+
+
+
 ## 🔥Food Vision Big 101 Using CNN
   
   Built Food Vision Big 101 model using a Convolutional Neural Network and got 80% accuracy
