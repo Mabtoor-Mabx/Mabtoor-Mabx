@@ -53,6 +53,11 @@ This project demonstrates a Flask-based Login System with session management. It
 
 https://github.com/Mabtoor-Mabx/Flask-based-Login-System
 
+## 🔥 Flask_Blog_Basic_Website
+
+This project is a basic Flask-based blog website designed to demonstrate the core concepts of Flask, such as routing, template rendering, session handling, and form submission. It serves as an introductory project for beginners who want to learn how to build dynamic web applications using Python and Flask.
+
+https://github.com/Mabtoor-Mabx/Flask_Blog_Basic_Website
 
 
 ## 🔥Food Vision Big 101 Using CNN
