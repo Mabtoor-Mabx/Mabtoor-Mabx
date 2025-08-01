@@ -26,6 +26,12 @@ Emily is a voice-controlled AI virtual assistant built using Python. It can perf
 
 https://github.com/Mabtoor-Mabx/Emily_Ai_Virtual_Assistant
 
+## 🔥 Advanced Todo App using Flask
+The Advanced Todo App using Flask is a full-featured web application built with the Flask framework. It allows users to register, log in, and manage their tasks in a simple yet powerful to-do list system. The app utilizes secure authentication, form validation, task tracking, and database integration to provide a smooth and efficient user experience.
+
+https://github.com/Mabtoor-Mabx/Advanced-TODO-App-Using-Flask
+
+
 ## 🔥 Calculator With Saved History Using Python
 The Calculator With Saved History Using Python is a simple command-line application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 One of the key features of this project is the ability to save calculation history to a file (history.txt) and retrieve it later. Users can also clear the history when needed, making it a practical and lightweight tool for everyday calculations.
