@@ -49,6 +49,14 @@ The Password Guessing Game is a fun and interactive Python-based project where u
 
 https://github.com/Mabtoor-Mabx/Password_guessing_game
 
+## 🔥Form Designing using Anvil Works
+
+This project demonstrates a complete Form Submission System built using Anvil Works — a powerful platform for developing full-stack web applications with nothing but Python. The system allows users to submit job applications through a custom-designed form, with validation, file uploads, and background processing.
+
+🚀 Application Link
+
+https://every-good-moose.anvil.app/
+
 ## 🔥Fake News Headline Generator Using Python
 The Fake News Headline Generator is a fun Python project that creates random and humorous fake news headlines. It uses predefined lists of persons, actions, and places or things to generate unique and unexpected headlines every time. This project is designed for beginners to practice Python fundamentals like lists, loops, and the random module.
 
