@@ -38,6 +38,16 @@ One of the key features of this project is the ability to save calculation histo
 
 https://github.com/Mabtoor-Mabx/Calculator_With_Saved_History_Using_Python
 
+## 🔥 Personal Project Dashboard
+
+This project showcases a Personal Project Dashboard built using Streamlit, designed to present a professional portfolio in an interactive dashboard format. It highlights personal information, skills, experience, and major projects — all in a visually appealing layout.
+
+https://github.com/Mabtoor-Mabx/Personal_Project_Dashboard/
+
+App is live here :
+
+https://personalprojectdashboard-ta7neqtsbkfut3k8ikqwrg.streamlit.app/
+
 ## 🔥 QRCodeGenerator_Using_Python
 
 QRCodeGenerator_Using_Python is a simple Python-based project that allows you to generate QR codes for any given data, such as URLs, text, or other information. The generated QR code is saved as an image file, which can be easily scanned using any QR code reader application.
