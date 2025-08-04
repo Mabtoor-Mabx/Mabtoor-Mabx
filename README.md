@@ -48,6 +48,13 @@ App is live here :
 
 https://personalprojectdashboard-ta7neqtsbkfut3k8ikqwrg.streamlit.app/
 
+
+## 🌦️ Python GUI Weather App
+The Python GUI Weather App is a simple and interactive desktop application built using Python's Tkinter library. It allows users to fetch and view real-time weather data for any city around the world by entering the city's name. This app leverages the OpenWeatherMap API to retrieve accurate and up-to-date weather information.
+
+https://github.com/Mabtoor-Mabx/Python-GUI-Weather-App
+
+
 ## 🔥 QRCodeGenerator_Using_Python
 
 QRCodeGenerator_Using_Python is a simple Python-based project that allows you to generate QR codes for any given data, such as URLs, text, or other information. The generated QR code is saved as an image file, which can be easily scanned using any QR code reader application.
