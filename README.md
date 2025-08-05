@@ -38,6 +38,15 @@ One of the key features of this project is the ability to save calculation histo
 
 https://github.com/Mabtoor-Mabx/Calculator_With_Saved_History_Using_Python
 
+
+
+## 🔥 Quiz Application Using Flask
+
+This is a simple yet interactive Quiz Application built with the Flask web framework in Python. It allows users to attempt multiple-choice questions on Python and general knowledge, track their progress, and view their final score. The application uses a clean Bootstrap interface along with Flask's backend capabilities to provide a seamless quiz experience.
+
+https://github.com/Mabtoor-Mabx/Quiz-Application-Using-Flask
+
+
 ## 🔥 Personal Project Dashboard
 
 This project showcases a Personal Project Dashboard built using Streamlit, designed to present a professional portfolio in an interactive dashboard format. It highlights personal information, skills, experience, and major projects — all in a visually appealing layout.
