@@ -38,6 +38,10 @@ One of the key features of this project is the ability to save calculation histo
 
 https://github.com/Mabtoor-Mabx/Calculator_With_Saved_History_Using_Python
 
+## 📖 Recipee_App_In_Django
+A simple Django-based CRUD (Create, Read, Update, Delete) application to manage recipes. Users can add new recipes with images, view all recipes, update existing recipes, and delete single or all recipes. The project also includes Bootstrap styling for better UI.
+
+https://github.com/Mabtoor-Mabx/Recipee_App_In_Django
 
 
 ## 🔥 Quiz Application Using Flask
@@ -62,6 +66,7 @@ https://personalprojectdashboard-ta7neqtsbkfut3k8ikqwrg.streamlit.app/
 The Python GUI Weather App is a simple and interactive desktop application built using Python's Tkinter library. It allows users to fetch and view real-time weather data for any city around the world by entering the city's name. This app leverages the OpenWeatherMap API to retrieve accurate and up-to-date weather information.
 
 https://github.com/Mabtoor-Mabx/Python-GUI-Weather-App
+
 
 
 ## 🔥 QRCodeGenerator_Using_Python
@@ -156,19 +161,11 @@ https://github.com/Mabtoor-Mabx/Flask_Blog_Basic_Website
 
 # **Previous Work**
 
-🔥 Machine Learning Internee at Kingologic LLC Lahore (Remote)
+🔥 Python Developer (Django + Flask) at Arfaa Tech Faisalabad
 
-🔥 Python Developer Intern at Cybex Institute, Faisalabad
-
-🔥 Deep learning Intern at AI Soft Faisalabad
-
-🔥 Content Writing Internee at Digimedia Max, Faisalabad
+🔥 Python Developer & AI/ML Intern at Cybex Institute, Faisalabad
 
 🔥 Web Content Writer at Microbeck Private Limited, Faisalabad
-
-🔥 Data Science and Business Analytics Internee at The Spark Foundation
-
-🔥 Content Writing Intern at The AppForgers
 
 
 
@@ -194,4 +191,3 @@ Machine Learning, Deep Learning and Content Writing Services are Available. Feel
 **Email: mabtoor111@gmail.com**
 
 
-**linkedin : Mabtoor Ul Shafiq**
