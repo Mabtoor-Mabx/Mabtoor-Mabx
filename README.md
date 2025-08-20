@@ -61,6 +61,12 @@ App is live here :
 
 https://personalprojectdashboard-ta7neqtsbkfut3k8ikqwrg.streamlit.app/
 
+##  📚  Library_Management_Using_Django
+
+A simple **Library Management System** built with Django that demonstrates the use of **Model Relations (One-to-Many: Author → Books)** and **Forms (ModelForm)** for creating and managing records.
+
+https://github.com/Mabtoor-Mabx/Library_Management_Using_Django
+
 
 ## 🌦️ Python GUI Weather App
 The Python GUI Weather App is a simple and interactive desktop application built using Python's Tkinter library. It allows users to fetch and view real-time weather data for any city around the world by entering the city's name. This app leverages the OpenWeatherMap API to retrieve accurate and up-to-date weather information.
