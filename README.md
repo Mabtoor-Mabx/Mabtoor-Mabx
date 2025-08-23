@@ -32,6 +32,15 @@ The Advanced Todo App using Flask is a full-featured web application built with 
 https://github.com/Mabtoor-Mabx/Advanced-TODO-App-Using-Flask
 
 
+## 🔐 Django Authentication System
+
+A simple Django Authentication Application that implements User Registration, Login, Logout, and a Protected Dashboard using Django's built-in authentication system.
+The project includes Bootstrap styling for a clean UI, secure password encryption with user.set_password(), and flashed messages for user feedback.
+
+https://github.com/Mabtoor-Mabx/Authentication_In_Django
+
+
+
 ## 🔥 Calculator With Saved History Using Python
 The Calculator With Saved History Using Python is a simple command-line application that allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 One of the key features of this project is the ability to save calculation history to a file (history.txt) and retrieve it later. Users can also clear the history when needed, making it a practical and lightweight tool for everyday calculations.
