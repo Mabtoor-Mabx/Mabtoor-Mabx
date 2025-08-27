@@ -39,6 +39,13 @@ The project includes Bootstrap styling for a clean UI, secure password encryptio
 
 https://github.com/Mabtoor-Mabx/Authentication_In_Django
 
+ ## 🚀 TweetApp in Django
+
+TweetApp in Django is a simple yet powerful web application that replicates the basic functionalities of Twitter. Users can sign up, log in, create tweets, view tweets, like them, and manage their profiles. The project is built using the Django framework and follows the MVC (Model-View-Controller) pattern, ensuring scalability and clean code organisation.
+
+This project is suitable for learning purposes and can be extended into a more feature-rich social media platform.
+
+https://github.com/Mabtoor-Mabx/TweetApp-In-Django
 
 
 ## 🔥 Calculator With Saved History Using Python
