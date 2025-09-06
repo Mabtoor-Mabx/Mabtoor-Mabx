@@ -26,7 +26,7 @@ Emily is a voice-controlled AI virtual assistant built using Python. It can perf
 
 https://github.com/Mabtoor-Mabx/Emily_Ai_Virtual_Assistant
 
-📊 Django Report Generator
+## 📊 Django Report Generator
 
 Django Report Generator is a web-based application built with Django that allows schools, colleges, and institutions to manage students, subjects, and exam results efficiently. The system automatically generates report cards, ranks students based on their performance, and provides filtering, searching, and pagination features for easy navigation.
 
