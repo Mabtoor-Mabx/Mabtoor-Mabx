@@ -26,6 +26,15 @@ Emily is a voice-controlled AI virtual assistant built using Python. It can perf
 
 https://github.com/Mabtoor-Mabx/Emily_Ai_Virtual_Assistant
 
+📊 Django Report Generator
+
+Django Report Generator is a web-based application built with Django that allows schools, colleges, and institutions to manage students, subjects, and exam results efficiently. The system automatically generates report cards, ranks students based on their performance, and provides filtering, searching, and pagination features for easy navigation.
+
+This project demonstrates the power of Django ORM, Bootstrap UI, and dynamic report generation.
+
+https://github.com/Mabtoor-Mabx/Django-Report-Generator
+
+
 ## 🔥 Advanced Todo App using Flask
 The Advanced Todo App using Flask is a full-featured web application built with the Flask framework. It allows users to register, log in, and manage their tasks in a simple yet powerful to-do list system. The app utilizes secure authentication, form validation, task tracking, and database integration to provide a smooth and efficient user experience.
 
