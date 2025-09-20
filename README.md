@@ -34,6 +34,12 @@ This project demonstrates the power of Django ORM, Bootstrap UI, and dynamic rep
 
 https://github.com/Mabtoor-Mabx/Django-Report-Generator
 
+## 🚀 DjangoLearn
+
+A simple Django project built with Function-Based Views (FBV) to demonstrate core Django features like ORM, Aggregation, Annotation, Pagination, Custom User Model, Model Managers, Signals, and Bootstrap integration.
+
+https://github.com/Mabtoor-Mabx/DjangoLearn
+
 
 ## 🔥 Advanced Todo App using Flask
 The Advanced Todo App using Flask is a full-featured web application built with the Flask framework. It allows users to register, log in, and manage their tasks in a simple yet powerful to-do list system. The app utilizes secure authentication, form validation, task tracking, and database integration to provide a smooth and efficient user experience.
