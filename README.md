@@ -41,6 +41,13 @@ A simple Django project built with Function-Based Views (FBV) to demonstrate cor
 https://github.com/Mabtoor-Mabx/DjangoLearn
 
 
+## 🍴 Food Ordering App
+
+A Django-based web application that allows users to browse restaurants, view menus, add items to a cart, and place orders. The app demonstrates core e-commerce functionality with a focus on simplicity and clarity.
+
+
+https://github.com/Mabtoor-Mabx/Food-Ordering-App
+
 ## 🔥 Advanced Todo App using Flask
 The Advanced Todo App using Flask is a full-featured web application built with the Flask framework. It allows users to register, log in, and manage their tasks in a simple yet powerful to-do list system. The app utilizes secure authentication, form validation, task tracking, and database integration to provide a smooth and efficient user experience.
 
